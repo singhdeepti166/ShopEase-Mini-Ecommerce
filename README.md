@@ -77,7 +77,6 @@ The checkout dialog displays selected products, quantities, subtotal, delivery f
 **Deepti Singh**
 
 - GitHub: https://github.com/singhdeepti166
-- LinkedIn: https://www.linkedin.com/in/deepti-singh-b95a92421
 
 ## 📌 Project Information
 
